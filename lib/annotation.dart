@@ -1,0 +1,3 @@
+class GenerateStringUtils {
+  const GenerateStringUtils();
+}
